@@ -1,10 +1,10 @@
 # General Synod Title Controller — Interactive Demo
 
-A standalone interactive demo of the [General Synod Title Controller](https://github.com/YOUR-USERNAME/synod-titles) for client presentations.
+A standalone interactive demo of the [General Synod Title Controller](https://github.com/yusufmiahav/synod-titles) for client presentations.
 
 **No server. No Node.js. No installation.** A single HTML file that runs entirely in the browser.
 
-🔗 **[View live demo →](https://YOUR-USERNAME.github.io/synod-demo)**
+🔗 **[View live demo →](https://yusufmiahav.github.io/synod-demo)**
 
 ---
 
