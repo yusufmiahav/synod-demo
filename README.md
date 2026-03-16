@@ -90,7 +90,7 @@ Or drag the file into a browser window.
 
 ## Full system
 
-The production application is at **[synod-titles](https://github.com/YOUR-USERNAME/synod-titles)** — a Node.js local server with the complete 505-member database, real VMix API integration, Excel session log export, keyboard shortcuts, and multi-operator WebSocket support.
+The production application is at **[synod-titles](https://github.com/yusufmiahav/synod-titles)** — a Node.js local server with the complete 505-member database, real VMix API integration, Excel session log export, keyboard shortcuts, and multi-operator WebSocket support.
 
 ---
 
